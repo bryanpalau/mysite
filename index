@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="wireframe-2">
+      <div class="component-6">
+        <div class="component-6-child"></div>
+        <b class="click-me">Click me</b>
+      </div>
+      <div class="text">
+        <b class="title">
+          <p class="learn-languages">Learn Languages,</p>
+          <p class="learn-languages">Any Where</p>
+        </b>
+        <div class="paragraph">
+          <p class="learn-languages">
+            ✨ Dive into new languages, make global friends, and unleash your
+            inner polyglot. Your passport to the world starts here! 🌟
+          </p>
+          <p class="learn-languages">&nbsp;</p>
+          <p class="learn-languages">
+            Jump in & discover a universe of languages! 👉
+          </p>
+        </div>
+      </div>
+      <img class="img-icon" alt="" src="Img.svg" />
+
+      <div class="top-menu">
+        <b class="scedu">SCEDU</b>
+        <div class="search">
+          <div class="dropdown-big">
+            <img class="icon" alt="" src="./public/icon.svg" />
+
+            <div class="learn">Learn</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+ 
