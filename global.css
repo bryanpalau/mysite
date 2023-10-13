@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+  
+    /* font sizes */
+    --font-size-5xl: 24px;
+  
+    /* Colors */
+    --surface-surface-primary: #292929;
+    --text-text-primary: #fff;
+    --color-brand-chamomile: #95e6eb;
+    --border-border-primary: #f5f5f5;
+    --color-brand-melon: rgba(142, 243, 133, 1);
+
+  
+    /* Spacing */
+    --spacing-spacing-sm: 8px;
+    --spacing-spacing-md: 16px;
+    --spacing-spacing-2xl: 40px;
+    --radius-radius-2xl: 128px;
+  
+    /* Border radiuses */
+    --br-109xl: 128px;
+  }
+  
